@@ -1,0 +1,10 @@
+nltk
+pandas
+matplotlib
+wordcloud
+
+scikit-learn
+gensim
+gradio[oauth]==4.8.0
+Pillow
+seaborn
